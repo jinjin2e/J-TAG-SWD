@@ -11,7 +11,7 @@
 - RESET : 타겟 초기화, 디버깅 세션을 초기 상태로 되돌린다.  
 ***
 ## SWD 핀 연결 
-- SWDIO
+- SWDIO (Serial Wire Clock)
 - SWCLK
 - RESET
 - SWO
